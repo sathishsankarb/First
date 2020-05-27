@@ -4,6 +4,7 @@
 
       System.out.println("Sum of these numbers: "+sum)
       this is the new edited made by the first team.
-      i
-      
-      i am mafe the new chages in the file add .java;
+     i am mafe the new chages in the file add .java;
+
+     ----------------------------------------------------------
+     this is the new edited file which i am also making the change on the same file
